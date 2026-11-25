@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "You can cite the lecture notes as below."
+authors:
+- family-names: "Bahçeci"
+  given-names: "Ufuk"
+  orcid: "https://orcid.org/0000-0001-5415-3705"
+title: "System Analysis"
+date-released: 2026
+url: "https://github.com/UfukBahceci/SystemAnalysisLectureNotes"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "Bahçeci"
+    given-names: "Ufuk"
+    orcid: "https://orcid.org/0000-0001-5415-3705"
+  title: "System Analysis"
+  year: 2026
